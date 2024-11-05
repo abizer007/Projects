@@ -16,7 +16,9 @@ Probability Distributions: Implementing binomial and Poisson distributions.
 Control Structures: Examples of if-else statements, loops (while and for), and functions.
 Read CSV Data: Importing and analyzing data from CSV files.
 GitHub Repository: This repository serves as a practical demonstration of applying statistical methods in R, suitable for educational purposes and understanding fundamental statistical concepts.
-
+6) Library Management System - Java GUI Application :- This project is a Library Management System built using Java's Swing library for the GUI and core object-oriented programming principles, making it easy to manage a library's book inventory, members, and borrowing activities. The project structure leverages abstraction, inheritance, and polymorphism to manage different library items, with classes like LibraryItem, Book, and Member. A custom LibraryException class is also implemented for handling specific library-related errors.
+The main GUI provides tabs for adding books, adding members, and borrowing and returning books, with a convenient search panel for locating books by title or author and members by name. Each book and member is uniquely identified, and users can track borrowing limits and due dates. The LocalDate class is used for managing and displaying due dates, making it simple to implement a borrowing limit and item availability checks.
+Overall, this application offers a smooth and interactive interface for handling common library tasks, using robust OOP principles and Java's GUI components to create a real-world library system experience. This project can serve as a foundational reference for implementing larger inventory systems or databases in Java-based applications.
 
 
 
