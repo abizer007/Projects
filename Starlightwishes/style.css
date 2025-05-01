@@ -1,0 +1,28 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: black;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+  }
+  
+  #message-container {
+    position: absolute;
+    bottom: 100px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  #message {
+    font-size: 24px;
+    text-shadow: 0 0 10px white;
+  }
+  
+  #author {
+    font-size: 18px;
+    color: #cccccc;
+    margin-top: 10px;
+    font-style: italic;
+  }
+  
